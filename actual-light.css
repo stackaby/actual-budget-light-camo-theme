@@ -1,0 +1,18 @@
+:root {
+  --color-pageBackground: #e8e2d0;
+  --color-pageText: #3d3d2e;
+  --color-pageTextSubdued: #6b6b58;
+  --color-pageTextPositive: #4a6b3a;
+  --color-pageTextLink: #5a7a3a;
+  --color-tableBackground: #f5f1e6;
+  --color-tableText: #3d3d2e;
+  --color-tableBorder: #c4bda8;
+  --color-tableRowBackgroundHover: #dcd5c2;
+  --color-buttonPrimaryBackground: #6b7a4a;
+  --color-buttonPrimaryText: #f5f1e6;
+  --color-buttonNormalBackground: #c4bda8;
+  --color-buttonNormalText: #3d3d2e;
+  --color-sidebarBackground: #d4ccb8;
+  --color-sidebarItemText: #4a4a3d;
+  --color-sidebarItemTextSelected: #5a7a3a;
+}
